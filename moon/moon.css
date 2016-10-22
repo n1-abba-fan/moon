@@ -1,0 +1,20 @@
+
+
+body {
+	
+background-image: url('valley.jpg');
+background-size: 100% 100%;
+}
+
+
+#hidiv {
+	font-size: 32px;
+}
+
+#sketch-holder {
+	width: 400px;
+	height: 400px;
+	margin:auto;
+		border: 4px solid black;
+	margin: auto;
+}
